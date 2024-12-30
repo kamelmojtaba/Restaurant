@@ -1,9 +1,6 @@
 
-# README File for "HighSpeedTrain Synchronization Project"
 
----
-
-## Project Title:
+# Project Title:
 **Synchronization in Operating Systems - HighSpeedTrain**
 
 ---
@@ -103,8 +100,10 @@ To compile and run the program:
   - 2 train threads arriving with predefined seat counts.  
 - Results demonstrate proper synchronization between trains and passengers.
 
-### Placeholder for Screenshot:
-*(Insert screenshot of terminal output or application here)*
+### Screenshot:
+![Screenshot of HighSpeedTrain Simulation Output](https://github.com/user-attachments/assets/d567ea5c-9fb6-4347-a623-9e63377180f2)
+
+*Figure: HighSpeedTrain simulation output in the terminal.*
 
 ---
 
